@@ -1,0 +1,14 @@
+{
+  "selected_threshold": 0.2,
+  "rule": "Maximize validation recall among thresholds 0.2/0.3/0.5 with review_rate <= 0.30; break ties by precision then larger threshold. If none feasible, minimize review_rate then choose larger threshold.",
+  "candidate_thresholds": [
+    0.2,
+    0.3,
+    0.5
+  ],
+  "review_capacity": 0.3,
+  "classification_rule": "probability >= threshold",
+  "selection_split": "validation",
+  "baseline_classification_threshold": 0.5,
+  "test_role": "evaluation only after policy frozen"
+}

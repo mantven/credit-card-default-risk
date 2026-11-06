@@ -1,0 +1,14 @@
+feature,negative_n,zero_n,positive_n,scope
+LIMIT_BAL,0,0,30000,full descriptive
+BILL_AMT1,590,2008,27402,full descriptive
+BILL_AMT2,669,2506,26825,full descriptive
+BILL_AMT3,655,2870,26475,full descriptive
+BILL_AMT4,675,3195,26130,full descriptive
+BILL_AMT5,655,3506,25839,full descriptive
+BILL_AMT6,688,4020,25292,full descriptive
+PAY_AMT1,0,5249,24751,full descriptive
+PAY_AMT2,0,5396,24604,full descriptive
+PAY_AMT3,0,5968,24032,full descriptive
+PAY_AMT4,0,6408,23592,full descriptive
+PAY_AMT5,0,6703,23297,full descriptive
+PAY_AMT6,0,7173,22827,full descriptive
